@@ -13,3 +13,7 @@ A very sussy mod for "5D Chess With Multiverse Time Travel". Play with sussy pie
 Download the zip file, open it, click on flips.exe, choose "apply patch", select "sus_chess.bps" as the "patch to use", "5dchesswithmultiversetimetravel.exe" as the "file to patch", and save the output file ("sus_chess.exe") in your "SusChess" folder. (This step might fail if you have a different version of the game than the one I made the patch for. In this case, notify me by opening an "Issue" so I can make a patch for your version. But even without this step you'll still have the Among Us chess pieces and the among us font.)
 
 Have fun!
+
+## TODO
+
+Fairy chess pieces are still lacking. For the time being, I just copied the sprites for the regular chess pieces. Feel free to modify the lower half of pieces.png in assets/pieces and make a pull request to contribute proper fairy chess pieces!
