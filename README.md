@@ -1,3 +1,4 @@
+![title_screen](https://user-images.githubusercontent.com/103294508/176332411-633d829a-10e6-41fc-96fa-40f97915cfe1.png)
 # SusChess with Mogusverse Vent Travel.
 A very sussy mod for "5D Chess With Multiverse Time Travel". Play with sussy pieces, enjoy the sussy fonts and when you finish a game, prepare for a ... SUSprise!!
 
