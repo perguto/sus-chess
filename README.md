@@ -17,3 +17,9 @@ Have fun!
 ## TODO
 
 Fairy chess pieces are still lacking. For the time being, I just copied the sprites for the regular chess pieces. Feel free to modify the lower half of pieces.png in assets/pieces and make a pull request to contribute proper fairy chess pieces!
+
+## Donations
+
+You can support me by sending Monero! My wallet: 
+48tZVr959JfZ6p5BRkHFnJA3qbQx9qN7gg1AJNjzgNexSyMVVPww5nF3b5RNmfrZzwBjYFxYpGBU5ZvJHyMd7Mje2Uh4728
+[image](https://user-images.githubusercontent.com/103294508/176571307-a7b928be-b67f-41fc-a82c-0898e2fbfa44.png)
