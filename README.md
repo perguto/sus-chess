@@ -22,7 +22,7 @@ Fairy chess pieces are still lacking. For the time being, I just copied the spri
 
 You can support me by sending money via Paypal or Monero!
 
-Paypal: https://www.paypal.com/paypalme/roidoduda
+[My Paypal.me link](https://www.paypal.com/paypalme/roidoduda)
 
 <img src="https://user-images.githubusercontent.com/103294508/176575408-ca67a932-593e-4ce9-91a2-a092f6a4d4cd.svg" width="16"> Monero: 
 48tZVr959JfZ6p5BRkHFnJA3qbQx9qN7gg1AJNjzgNexSyMVVPww5nF3b5RNmfrZzwBjYFxYpGBU5ZvJHyMd7Mje2Uh4728
