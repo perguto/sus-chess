@@ -24,8 +24,8 @@ You can support me by sending money via Paypal or Monero!
 
 Paypal: https://www.paypal.com/paypalme/roidoduda
 
-Monero: 
-<img src="https://user-images.githubusercontent.com/103294508/176575408-ca67a932-593e-4ce9-91a2-a092f6a4d4cd.svg" width="16"> 48tZVr959JfZ6p5BRkHFnJA3qbQx9qN7gg1AJNjzgNexSyMVVPww5nF3b5RNmfrZzwBjYFxYpGBU5ZvJHyMd7Mje2Uh4728
+<img src="https://user-images.githubusercontent.com/103294508/176575408-ca67a932-593e-4ce9-91a2-a092f6a4d4cd.svg" width="16"> Monero: 
+48tZVr959JfZ6p5BRkHFnJA3qbQx9qN7gg1AJNjzgNexSyMVVPww5nF3b5RNmfrZzwBjYFxYpGBU5ZvJHyMd7Mje2Uh4728
 
 
 ![perguto monero wallet](https://user-images.githubusercontent.com/103294508/176571307-a7b928be-b67f-41fc-a82c-0898e2fbfa44.png)
