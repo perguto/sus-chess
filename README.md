@@ -22,7 +22,7 @@ Fairy chess pieces are still lacking. For the time being, I just copied the spri
 
 You can support me by sending Monero! My wallet: 
 
-![xmr](https://user-images.githubusercontent.com/103294508/176575408-ca67a932-593e-4ce9-91a2-a092f6a4d4cd.svg|width=20) 48tZVr959JfZ6p5BRkHFnJA3qbQx9qN7gg1AJNjzgNexSyMVVPww5nF3b5RNmfrZzwBjYFxYpGBU5ZvJHyMd7Mje2Uh4728
+![xmr](https://user-images.githubusercontent.com/103294508/176575408-ca67a932-593e-4ce9-91a2-a092f6a4d4cd.svg=16x16) 48tZVr959JfZ6p5BRkHFnJA3qbQx9qN7gg1AJNjzgNexSyMVVPww5nF3b5RNmfrZzwBjYFxYpGBU5ZvJHyMd7Mje2Uh4728
 
 
 ![perguto monero wallet](https://user-images.githubusercontent.com/103294508/176571307-a7b928be-b67f-41fc-a82c-0898e2fbfa44.png)
