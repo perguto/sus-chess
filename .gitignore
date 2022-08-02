@@ -1,2 +1,4 @@
 *.dll
 *.exe
+*_original
+*.xcf
